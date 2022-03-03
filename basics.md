@@ -1,12 +1,17 @@
 # The Basics of Markdown
 
 ## Headings
-
+> \# Heading Level 1 (H1):
 > # Heading Level 1 (H1)
+> \#\# Heading Level 2 (H2):
 > ## Heading Level 2 (H2)
+> \#\#\# Heading Level 3 (H3):
 > ### Heading Level 3 (H3)
+> \#\#\#\# Heading Level 4 (H4):
 > #### Heading Level 4 (H4)
+> \#\#\#\#\# Heading Level 5 (H5):
 > ##### Heading Level 5 (H5)
+> \#\#\#\#\#\# Heading Level 6 (H6):
 > ###### Heading Level 6 (H6)
 
 ## Heading Alternatives
